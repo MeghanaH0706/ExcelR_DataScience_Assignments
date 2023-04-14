@@ -1,43 +1,41 @@
 # ExcelR_DataScience_Assignments
 Find all EXCELR Data Science Assignment Here
 
-### [Basic Statistics Level 1]()
+### [Basic Statistics Level 1](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Basic%20Statistics_Level%201)
 
-### [Basic Statistics Level]()
+### [Basic Statistics Level 2](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Basic%20Statistics_Level%202)
 
-### [Hypothesis Testing]()
+### [Hypothesis Testing](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Hypothesis%20Testing)
 
-### [Simple Linear Regression Delivery Time]()
+### [Simple Linear Regression](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Simple%20Linear%20Regression)
 
-### [Simple Linear Regression Salary Hike]()
+### [Multi Linear Regression](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Multi%20Linear%20Regression)
 
-### [Multi Linear Regression]( )
+### [Logistic Regression](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Logistic%20Regression)
 
-### [Logistic Regression]()
+### [Clustering](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Clustering)
 
-### [Clustering]()
+### [PCA](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/PCA)
 
-### [PCA]()
+### [Association Rule](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Association%20Rules)
 
-### [Association Rule]( )
+### [Recommendation System](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Recommendation%20System)
 
-### [Recommendation System]()
+### [Text Mining](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Text%20mining)
 
-### [Text Mining]()
+### [Naive Bayes](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Naive%20Bayes)
 
-### [Naive Bayes]()
+### [KNN](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/KNN)
 
-### [KNN]()
+### [Decision Trees](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Decision%20Trees)
 
-### [Decision Trees]()
+### [Random Forests](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Random%20Forests)
 
-### [Random Forests]()
+### [Neural Networks](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Neural%20Networks)
 
-### [Neural Networks]()
+### [SVM](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Support%20Vector%20Machines)
 
-### [SVM]()
-
-### [Forecasting]()
+### [Forecasting](https://github.com/MeghanaH0706/ExcelR_DataScience_Assignments/tree/main/Forecasting)
 
 ___
 
