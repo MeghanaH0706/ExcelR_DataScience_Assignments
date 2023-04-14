@@ -46,7 +46,7 @@ ___
 <td>
      <img src="https://avatars.githubusercontent.com/u/121274896?s=96&v=4" width="180"/>
 
-     meghana.h0607@gmail.com
+     meghana.h0706@gmail.com
 
 <p align="center">
 <a href = "https://github.com/MeghanaH0706"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
