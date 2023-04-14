@@ -46,7 +46,7 @@ ___
 <table>
 <tr>
 <td>
-     <img src="https://avatars.githubusercontent.com/u/99672298?v=4" width="180"/>
+     <img src="https://avatars.githubusercontent.com/u/121274896?s=96&v=4" width="180"/>
 
      meghana.h0607@gmail.com
 
